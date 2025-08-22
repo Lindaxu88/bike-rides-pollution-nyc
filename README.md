@@ -55,10 +55,10 @@ It integrates trip data from Citi Bike with EPA air quality monitoring data, and
 ## Visualizations
 
 ### AQI Distribution by Station
-![AQI Distribution by Station](images/AQI.jpg)
+![AQI Distribution by Station](AQI.jpg)
 
 ### Number of Rides by Station
-![Number of Rides by Station](images/Rides-by-Station.jpg)
+![Number of Rides by Station](Rides-by-Station.jpg)
 
 ---
 
